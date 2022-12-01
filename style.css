@@ -1,0 +1,109 @@
+.container
+{
+    position: relative;
+    height: 2513px;
+    width: 100%;
+
+
+}
+
+.title
+{
+    position: absolute;
+    left:419px;
+    top: 176px;
+    height: 88px;
+    width: 530px;
+}
+
+.title_text
+{
+    font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 39px;
+    line-height: 44px;
+    color: #292929;
+}
+.pageImage
+{
+    position: absolute;
+    top:264px;
+    left:227px;
+    height: 374px;
+    width: 1100px;
+    border-radius: 0px;
+}
+
+.image
+{
+    height: 374px;
+    width: 1100px;
+}
+
+.paragraph{
+    position: absolute;
+    left: 419px;
+    top: 689px; 
+    height: 640px;
+    width: 680px;
+  
+}
+
+.para1, .para2,.para3,.para4{
+    font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 150.6%;
+    color: #292929;
+}
+
+.BodyImage{
+    position: absolute;
+    width: 663px;
+    height: 382px;
+    left: 419px;
+    top: 1375px;
+       
+}
+
+.bodyimage{
+    width: 100%;
+    height: 100%;
+}
+
+.para5{
+    position: absolute;
+    left: 419px;
+    top: 1799px;
+    height: 95px;
+    width: 680px;
+}
+
+.para5_p{
+    font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 150.6%;
+    color: #292929;
+   
+}
+
+.para6{
+    position: absolute;
+    width: 680px;
+    height: 95px;
+    left: 419px;
+    top: 2013px;
+}
+
+.para6_p{
+    font-family: 'Georgia';
+font-style: italic;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+color: #292929;
+}
